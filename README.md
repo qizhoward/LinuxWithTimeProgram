@@ -1,10 +1,8 @@
 # LinuxWithTimeProgram
 
 *Part One Linux Line With Time Point Program</br>
-==========
-
 **第一部分Linux思维线上跟时间点编程
-----------   
+==========
 
    正文:
    
